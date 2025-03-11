@@ -8,8 +8,8 @@ Questo repository contiene il progetto relativo all'integrazione e ai test softw
 - **Property-Based Testing (PBT)**
 
 ## Struttura del Progetto
-- `src/` - Contiene il codice sorgente del metodo `generatePermutations`.
-- `test/` - Contiene gli script per l'automazione dei test.
+- `src/main` - Contiene il codice sorgente dei metodi analizzati.
+- `src/test/` - Contiene gli script per l'automazione dei test.
 - `reports/` - Contiene i report generati per l'analisi della copertura del codice.
 
 ## Requisiti
